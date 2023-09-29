@@ -1,4 +1,4 @@
-### Hi there This is Thaw Zin Moe Myint
+### Hi 👋 there This is Thaw Zin Moe Myint
 
 ### About me
 
