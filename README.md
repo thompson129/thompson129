@@ -11,5 +11,5 @@ I'm a data science and machine learning enthusiast.
   <img alt="Pandas" src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge"/>
   <img alt="Tensorflow" src="https://img.shields.io/badge/Tensorflow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge"/>
   <img alt="R" src="https://img.shields.io/badge/r-276DC3?logo=r&logoColor=white&style=for-the-badge"/>
-  <img alt="PHP" src="https://img.shields.io/badge/r-276DC3?logo=php&logoColor=white&style=for-the-badge"/>
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-#777BB4?logo=php&logoColor=white&style=for-the-badge"/>
 </p>
