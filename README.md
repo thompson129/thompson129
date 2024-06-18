@@ -10,10 +10,10 @@ Data Science: Analyzing data, building models, and visualizing insights using Py
 Machine Learning: Developing and deploying machine learning models with frameworks like TensorFlow, Keras, and scikit-learn.
 
 🌱 What I'm Learning<br>
-Currently, I'm expanding my knowledge in:
+Currently, I'm expanding my knowledge in:<br>
 
-Backend development frameworks
-Advanced machine learning techniques
+Backend development frameworks<br>
+Advanced machine learning techniques<br>
 Deep learning frameworks
 ### Tech Stack
 <p>
