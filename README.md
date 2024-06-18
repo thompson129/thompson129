@@ -5,11 +5,11 @@
 I'm a passionate Computer Science student with a keen interest in backend development, data science, and machine learning. I enjoy creating efficient and scalable solutions, and I love diving into data to uncover meaningful insights.
 
 🧑‍💻 What I Do<br>
-Backend Development: Crafting robust and scalable backend systems using technologies like Node.js and Laravel.
-Data Science: Analyzing data, building models, and visualizing insights using Python, pandas, NumPy, and Matplotlib.
+Backend Development: Crafting robust and scalable backend systems using technologies like Node.js and Laravel.<br>
+Data Science: Analyzing data, building models, and visualizing insights using Python, pandas, NumPy, and Matplotlib.<br>
 Machine Learning: Developing and deploying machine learning models with frameworks like TensorFlow, Keras, and scikit-learn.
 
-🌱 What I'm Learning
+🌱 What I'm Learning<br>
 Currently, I'm expanding my knowledge in:
 
 Backend development frameworks
