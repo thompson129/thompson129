@@ -1,7 +1,3 @@
-### Hi there 👋 This is Thaw Zin Moe Myint(Thompson).
-
-### About me
-
 I'm a passionate Computer Science student with a keen interest in backend development, data science, and machine learning. I enjoy creating efficient and scalable solutions, and I love diving into data to uncover meaningful insights.
 
 ### Tech Stack
