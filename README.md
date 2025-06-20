@@ -2,7 +2,7 @@
 
 I’m a passionate Computer Science student with a strong interest in backend development, data science, and machine learning. I enjoy crafting efficient, scalable systems, and I love diving into data to uncover actionable insights. Whether building APIs, training ML models, or analyzing complex datasets, I’m always eager to learn and improve.
 
-### Tech Stacks 
+### 📦 Tech I’ve Used in Projects
 <p>
   <img alt="Html" src="https://img.shields.io/badge/Html-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="Css" src="https://img.shields.io/badge/Css-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
