@@ -26,4 +26,6 @@ I’m a passionate Computer Science student with a strong interest in backend de
   <img alt="Postman" src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img alt="Netlify" src="https://img.shields.io/badge/netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
   <img alt="Gradio" src="https://img.shields.io/badge/gradio-F97316?style=for-the-badge&logo=gradio&logoColor=white"/>
+  <img alt="Huggingface" src="https://img.shields.io/badge/huggingface-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white"/>
+
 </p>
