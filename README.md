@@ -9,15 +9,19 @@ I'm a passionate Computer Science student with a keen interest in backend develo
   <img alt="Numpy" src="https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white&style=for-the-badge"/>
   <img alt="Pandas" src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge"/>
   <img alt="Tensorflow" src="https://img.shields.io/badge/Tensorflow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge"/>
-  <img alt="js" src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img alt="Pytorch" src="https://img.shields.io/badge/Pytorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge"/>
+  <img alt="Javascript" src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img alt="Typescript" src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img alt="React" src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
   <img alt="Nextjs" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
   <img alt="Nodejs" src="https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img alt="Expressjs" src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img alt="Hono" src="https://img.shields.io/badge/hono-E36002?style=for-the-badge&logo=hono&logoColor=white"/>
   <img alt="MySql" src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img alt="MariaDB" src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
   <img alt="MongoDB" src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img alt="Prisma" src="https://img.shields.io/badge/prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
   <img alt="Postman" src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img alt="Netlify" src="https://img.shields.io/badge/netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+  <img alt="Gradio" src="https://img.shields.io/badge/gradio-F97316?style=for-the-badge&logo=gradio&logoColor=white"/>
 </p>
